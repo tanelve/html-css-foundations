@@ -1,1 +1,1 @@
-# html-css-foundations
+HTML & CSS Foundations excercise for The Odin Project
